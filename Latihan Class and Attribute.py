@@ -1,16 +1,16 @@
-class Penghuni_kos:
+class Mahasiswa:
     pass
 
-penghunikos1 = Penghuni_kos()
-penghunikos1.kamar = 8
-penghunikos1.nama = "Omeh"
+mahasiswa1 = Mahasiswa()
+mahasiswa1.nim = 12345678
+mahasiswa1.nama = "Omeh"
 
-print(penghunikos1.kamar)
-print(penghunikos1.nama)
+print(mahasiswa1.nim)
+print(mahasiswa1.nama)
 
-penghunikos2 = Penghuni_kos()
-penghunikos2.kamar = 7
-penghunikos2.nama = "Intan"
+mahasiswa2 = Mahasiswa()
+mahasiswa2.nim = 12233445
+mahasiswa2.nama = "Intan"
 
-print(penghunikos2.kamar)
-print(penghunikos2.nama)
+print(mahasiswa2.nim)
+print(mahasiswa2.nama)
